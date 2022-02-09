@@ -8,7 +8,7 @@
   "author": "Malo(uchihamalolan@gmail.com)",
   "website": "malolan.me",
   "json_url": "github-gist",
-  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://github.com/uchihamalolan/karabiner",
+  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/uchihamalolan/karabiner/main/karabiner.json",
   "gallery_url": "https://ke-complex-modifications.pqrs.org/#emulation-modes",
   "repo": "https://github.com/uchihamalolan/karabiner",
   "rules": [
