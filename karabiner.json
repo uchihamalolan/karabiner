@@ -122,7 +122,7 @@
           "description": "hyper + e = Edge",
           "type": "basic",
           "from": {
-            "key_code": "v",
+            "key_code": "e",
             "modifiers": {
               "mandatory": [
                 "right_command",
@@ -179,7 +179,7 @@
           ]
         },
         {
-          "description": "hyper + v = VSCode",
+          "description": "hyper + p = Postman",
           "type": "basic",
           "from": {
             "key_code": "p",
@@ -219,7 +219,7 @@
           ]
         },
         {
-          "description": "hyper + t = IDEA",
+          "description": "hyper + i = IDEA",
           "type": "basic",
           "from": {
             "key_code": "i",
