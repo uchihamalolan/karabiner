@@ -12,7 +12,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 ### Usage
 
-- `💥` indicates `Cmd + Ctrl + Opt`
+- `💥` indicates `Cmd + Ctrl + Opt + Shift`
 - It's mapped to `Capslock` using Karabinder (in the same json config)
 
 ### Shortcuts
