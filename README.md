@@ -2,4 +2,7 @@
 Karabiner Shortcuts for MacOS
 
 ### Installation
-Click Here -> `karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/uchihamalolan/karabiner/main/karabiner.json`
+Copy and Paste this in Browser
+```
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/uchihamalolan/karabiner/main/karabiner.json
+```
