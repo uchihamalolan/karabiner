@@ -17,12 +17,21 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 
 ### Shortcuts
 
-| App     | Shortcut|
-|---------|---------|
-| Edge    | 💥 + e  |
-| Slack   | 💥 + s  |
-| VSCode  | 💥 + v  |
-| iTerm   | 💥 + i  |
-| Postman | 💥 + p  |
-| Figma   | 💥 + f  |
-| IDEA    | 💥 + i  |
+#### Dev
+| App       | Shortcut|
+|-----------|---------|
+| VSCode    | 💥 + q  |
+| IDEA      | 💥 + w  |
+| iTerm     | 💥 + e  |
+| SQLAce    | 💥 + r  |
+| Postman   | 💥 + t  |
+
+
+#### Non Dev
+| App       | Shortcut|
+|-----------|---------|
+| Edge      | 💥 + a  |
+| Firefox   | 💥 + s  |
+| Slack     | 💥 + d  |
+| Figma     | 💥 + f  |
+| Reminders | 💥 + g  |
