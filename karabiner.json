@@ -201,7 +201,6 @@
             "key_code": "s",
             "modifiers": {
               "mandatory": [
-                "f",
                 "right_command",
                 "right_control",
                 "right_shift",
