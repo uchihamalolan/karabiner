@@ -154,7 +154,7 @@
           ]
         },
         {
-          "description": "hyper + t = Postman",
+          "description": "hyper + t = Sequel Ace",
           "type": "basic",
           "from": {
             "key_code": "t",
@@ -169,7 +169,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'Postman'"
+              "shell_command": "open -a 'Sequel Ace'"
             }
           ]
         },
@@ -215,7 +215,7 @@
           ]
         },
         {
-          "description": "hyper + d = Slack",
+          "description": "hyper + d = Figma",
           "type": "basic",
           "from": {
             "key_code": "d",
@@ -230,12 +230,12 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'Slack'"
+              "shell_command": "open -a 'Figma'"
             }
           ]
         },
         {
-          "description": "hyper + f = figma",
+          "description": "hyper + f = slack",
           "type": "basic",
           "from": {
             "key_code": "f",
@@ -250,7 +250,7 @@
           },
           "to": [
             {
-              "shell_command": "open -a 'Figma'"
+              "shell_command": "open -a 'Slack'"
             }
           ]
         },
